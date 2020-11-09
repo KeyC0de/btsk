@@ -18,4 +18,7 @@
 *.user
 /ipch
 
+# added:
+/.vs
+/.git
 *.opendb
